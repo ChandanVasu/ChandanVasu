@@ -26,6 +26,7 @@ Check out my [portfolio](link-to-portfolio) for more!
 ## 📈 GitHub Stats
 
 ![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanVasu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ## 📫 Let's Connect
 
