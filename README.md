@@ -16,12 +16,6 @@ I'm a passionate web developer with a keen interest in creating stunning and use
 
 ## 🌐 Projects
 
-Here are some of my noteworthy projects:
-
-1. [Project 1 - Name](link-to-project-1) - Short description.
-2. [Project 2 - Name](link-to-project-2) - Short description.
-
-Check out my [portfolio](link-to-portfolio) for more!
 
 ## 📈 GitHub Stats
 ![ChandanVasu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChandanVasu&theme=tokyonight&hide_border=false)
@@ -30,9 +24,6 @@ Check out my [portfolio](link-to-portfolio) for more!
 
 ![ChandanVasu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanVasu&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ## 📫 Let's Connect
-
-- LinkedIn: [Chandan Vasu](your-linkedin-profile)
-- Twitter: [@yourtwitterhandle](your-twitter-handle)
 
 Feel free to reach out! I'm always open to collaborations and discussions.
 
