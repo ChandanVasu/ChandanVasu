@@ -4,15 +4,12 @@ I'm a passionate web developer with a keen interest in creating stunning and use
 
 ## 🚀 About Me
 
-- 💻 I'm currently working on [mention a current project].
 - 🌱 I'm constantly learning and improving my skills.
-- 🎓 I studied [mention your education, if applicable].
 
 ## 🔧 Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** [mention any frameworks you're proficient in]
-- **Tools:** Git, VSCode, Photoshop
+- **Languages:** Js, Python, Dart...
+- **Tools:** Git, VSCode, Photoshop, Aws...
 
 ## 🌐 Projects
 
