@@ -1,27 +1,48 @@
-# Hi there, I'm Chandan Vasu! 👋
+# 👋 Hi, I'm Chandan Vasu
 
-I'm a passionate web developer with a keen interest in creating stunning and user-friendly websites. Welcome to my GitHub profile, where I showcase my projects and share my coding journey.
+I'm a full-stack web developer passionate about building modern, fast, and user-friendly web applications.
 
-## 🚀 About Me
+---
 
-- 🌱 I'm constantly learning and improving my skills.
+## 👨‍💻 About Me
 
-## 🔧 Skills
+- I enjoy solving real-world problems with clean and efficient code.
+- Currently focused on building **Shopead**, a powerful website builder for e-commerce.
+- Always learning and exploring new technologies in web development.
 
-- **Languages:** Js, Python, Dart...
-- **Tools:** Git, VSCode, Photoshop, Aws...
+---
 
-## 🌐 Projects
+## 🛠 Skills
 
+- **Languages:** JavaScript (Node.js, React), Python, Dart  
+- **Frameworks & Tools:** Next.js, Express.js, MongoDB, Tailwind CSS, Hero UI, SwiperJS  
+- **Other Tools:** Git, Cloudinary, AWS, FastSpring, VS Code, Photoshop  
+- **Concepts:** REST APIs, Responsive Design, Drag-and-Drop UI, Custom CMS, Payment Gateway Integration
 
-## 📈 GitHub Stats
-![ChandanVasu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChandanVasu&theme=tokyonight&hide_border=false)
+---
 
-![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanVasu&show_icons=true&theme=radical)
+## 🚀 Current Project: Shopead
 
-![ChandanVasu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanVasu&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-## 📫 Let's Connect
+**Shopead** is a no-code website builder designed for creating SEO-friendly e-commerce websites with ease.
 
-Feel free to reach out! I'm always open to collaborations and discussions.
+**Features:**
+- Drag-and-drop builder for flexible layout design
+- Product and collection management system
+- SEO optimization and mobile responsiveness
+- Multiple payment gateways including COD, Stripe, Razorpay, and FastSpring
+- Built-in media manager and image selector
+- Admin dashboard for managing orders, customers, and themes
+- Tools like AI-generated posts for Facebook and Instagram
 
-## 🙌 Thanks for visiting! 
+---
+
+## 📫 Contact
+
+I'm open to collaborations and freelance work.  
+Feel free to reach out!
+
+Email: chandan@shopead.cpm
+
+---
+
+Thanks for visiting!
