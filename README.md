@@ -41,7 +41,7 @@ I'm a full-stack web developer passionate about building modern, fast, and user-
 I'm open to collaborations and freelance work.  
 Feel free to reach out!
 
-Email: chandan@shopead.cpm
+Email: chandan@shopead.com
 
 ---
 
